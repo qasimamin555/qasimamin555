@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
-### Modern Full-Stack Cloud Developer and Architect
-
+<h3 align="center">Modern Full-stack developer. Passionate about building innovative and user-friendly applications focusing on scalability.</h3>
 
 
 <!--
