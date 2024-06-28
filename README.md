@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Qasim Ameen</h1>
 <h3 align="center">Modern Full-stack developer. Passionate about building innovative and user-friendly applications focusing on scalability.</h3>
 
 
