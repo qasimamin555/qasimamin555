@@ -1,4 +1,4 @@
-## Hi 👋 I'm Qasim Ameen
+<h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
 ### Modern Full-Stack Cloud Developer and Architect
 
 
